@@ -1,0 +1,22 @@
+.form{
+    width: 500px;
+    height: 600px;
+  }
+  
+  .container{
+    padding:20px
+  }
+  
+  
+  
+.form_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 8rem 10rem;
+   
+}
+.form_container .header{
+  margin-bottom: 2.5rem !important;
+}
